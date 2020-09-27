@@ -1,0 +1,13 @@
+$colorku: salmon;
+
+header {
+    text-align: center;
+
+    h1 {
+        background-color: $colorku;
+    }
+
+    p {
+        color: $colorku;
+    }
+}
